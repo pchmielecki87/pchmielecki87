@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm DevSecOps Practitioner and Cloud Engineer mostly focused on Azure and additionally on AWS. I've got experience in Powershell and Bash scripting but also getting fluency in Python and C# .NET development. Meet me Twitter @pchmielecki87
+
 <!--
 **pchmielecki87/pchmielecki87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
