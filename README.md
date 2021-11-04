@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Cloud Architect 🎓 and DevSecOps Practitioner 👨‍💻 mostly focused on Azure and additionally on AWS. I've got experience in Powershell and Bash scripting and also getting fluency in Python and C# .NET development 🌱. Love automation ❤️ (Bicep, Terraform, PS) and security 🔐 and testing 🧪 (Pester, Selenium). Reach me out on Twitter @pchmielecki87 📫
+I'm Cloud Architect 🎓 and DevSecOps Practitioner 👨‍💻 mostly focused on Azure and additionally on AWS. I've got experience in Powershell and Bash scripting and also getting fluency in Python and C# .NET development 🌱. Love automation ❤️ (Bicep, Terraform, PS) and security 🔐 and testing 🧪 (Pester, Selenium). Reach me out on Twitter [@pchmielecki87](https://twitter.com/pchmielecki87) 📫 #DrFreeman
 
 List of my key-technologies:
 - Git
