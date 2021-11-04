@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-I'm DevSecOps Practitioner and Cloud Engineer mostly focused on Azure and additionally on AWS. I've got experience in Powershell and Bash scripting but also getting fluency in Python and C# .NET development. Meet me Twitter @pchmielecki87
+I'm Cloud Architect 🎓 and DevSecOps Practitioner 👨‍💻 mostly focused on Azure and additionally on AWS. I've got experience in Powershell and Bash scripting and also getting fluency in Python and C# .NET development 🌱. Love automation ❤️ (Bicep, Terraform, PS) and security 🔐 and testing 🧪 (Pester, Selenium). Reach me out on Twitter @pchmielecki87 📫
+
+List of my key-technologies:
+- Git
+- PowerShell
+- Bicep
+- Terraform
+- C# .NET
+- Python
 
 <!--
 **pchmielecki87/pchmielecki87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
