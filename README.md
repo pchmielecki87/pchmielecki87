@@ -7,6 +7,7 @@ List of my key-technologies:
 - PowerShell
 - Bicep
 - Terraform
+- Kubernetes 
 - C# .NET
 - Python
 
